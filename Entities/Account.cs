@@ -1,5 +1,4 @@
-﻿using System;
-using ExceptionsBankAccount.Entities.Exceptions;
+﻿using ExceptionsBankAccount.Entities.Exceptions;
 
 namespace ExceptionsBankAccount.Entities
 {
