@@ -37,15 +37,20 @@ namespace ExceptionsBankAccount.Entities
             {
                 throw new DomainException("Amount need to be more than 0");
             }
-            else if (amount >= Balance)
-            {
-                throw new DomainException("Insufficient founds.");
-            }
             else if (amount >= WithrawLimit)
             {
                 throw new DomainException("the amount exceeds the withraw limit");
             }
+            else if (amount >= Balance)
+            {
+                throw new DomainException("Insufficient founds.");
+            }
             Balance -= amount;
+        }
+
+        public override string ToString()
+        {
+            return  $"New Balance: {Balance.ToString("F2")}";
         }
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\jonat\Documents\C#\Projects\ExceptionsBankAccount\bin\Debug\netcoreapp3.1\ExceptionsBankAccount.exe
+C:\Users\jonat\Documents\C#\Projects\ExceptionsBankAccount\bin\Debug\netcoreapp3.1\ExceptionsBankAccount.deps.json
+C:\Users\jonat\Documents\C#\Projects\ExceptionsBankAccount\bin\Debug\netcoreapp3.1\ExceptionsBankAccount.runtimeconfig.json
+C:\Users\jonat\Documents\C#\Projects\ExceptionsBankAccount\bin\Debug\netcoreapp3.1\ExceptionsBankAccount.runtimeconfig.dev.json
+C:\Users\jonat\Documents\C#\Projects\ExceptionsBankAccount\bin\Debug\netcoreapp3.1\ExceptionsBankAccount.dll
+C:\Users\jonat\Documents\C#\Projects\ExceptionsBankAccount\bin\Debug\netcoreapp3.1\ExceptionsBankAccount.pdb
+C:\Users\jonat\Documents\C#\Projects\ExceptionsBankAccount\obj\Debug\netcoreapp3.1\ExceptionsBankAccount.csprojAssemblyReference.cache
+C:\Users\jonat\Documents\C#\Projects\ExceptionsBankAccount\obj\Debug\netcoreapp3.1\ExceptionsBankAccount.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\C#\Projects\ExceptionsBankAccount\obj\Debug\netcoreapp3.1\ExceptionsBankAccount.AssemblyInfo.cs
+C:\Users\jonat\Documents\C#\Projects\ExceptionsBankAccount\obj\Debug\netcoreapp3.1\ExceptionsBankAccount.dll
+C:\Users\jonat\Documents\C#\Projects\ExceptionsBankAccount\obj\Debug\netcoreapp3.1\ExceptionsBankAccount.pdb
